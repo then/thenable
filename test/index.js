@@ -11,7 +11,7 @@ var A = {
 
 describe('wrap and unwrap', function () {
   it('lets you pass a thenable through a promise', function () {
-    return new Promise(function (res) { res.fulfill(null); })
+    return new Promise(function (resolve) { resolve(null); })
       .then(function () {
         return thenable.wrap(A);
       })
