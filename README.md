@@ -43,3 +43,5 @@ promise
 ## License
 
   MIT
+
+![viewcount](https://viewcount.jepso.com/count/then/thenable.png)
