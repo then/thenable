@@ -1,7 +1,7 @@
 # thenable
 
 [![Build Status](https://secure.travis-ci.org/then/thenable.png?branch=master)](https://travis-ci.org/then/thenable)
-[![Dependency Status](https://gemnasium.com/then/thenable.png)](https://gemnasium.com/then/thenable)
+[![Dependency Status](https://img.shields.io/david/then/thenable.svg)](https://david-dm.org/then/thenable)
 
   Wrap and unwrap thenables so that you can pass them through promises
 
